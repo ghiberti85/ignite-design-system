@@ -1,0 +1,32 @@
+{
+  "name": "@ignite-ui/docs",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "storybook dev -p 6006",
+    "build": "storybook build"
+  },
+  "License": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@storybook/addon-essentials": "^7.6.16",
+    "@storybook/addon-interactions": "^7.6.16",
+    "@storybook/addon-links": "^7.6.16",
+    "@storybook/addon-onboarding": "^1.0.11",
+    "@storybook/blocks": "^7.6.16",
+    "@storybook/react": "^7.6.16",
+    "@storybook/react-vite": "^7.6.16",
+    "@storybook/test": "^7.6.16",
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "@vitejs/plugin-react": "^4.2.1",
+    "storybook": "^7.6.16",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.0"
+  }
+}
