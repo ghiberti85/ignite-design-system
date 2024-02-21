@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/ghiberti85.png',
     alt: 'Fernando Ghiberti',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
