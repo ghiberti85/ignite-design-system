@@ -1,5 +1,6 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps, Text } from '@ignite-ui/react'
+import { Box, BoxProps, Text } from '@ghiberti85-ignite-ui/react'
+import React from 'react'
 
 export default {
   title: 'Surfaces/Box',

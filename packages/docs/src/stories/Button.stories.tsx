@@ -1,6 +1,7 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Button, ButtonProps } from '@ignite-ui/react'
+import { Button, ButtonProps } from '@ghiberti85-ignite-ui/react'
 import { ArrowRight } from 'phosphor-react'
+import React from 'react'
 
 export default {
   title: 'Form/Button',
