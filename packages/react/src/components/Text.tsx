@@ -7,7 +7,7 @@ export const Text = styled('p', {
   margin: 0,
   color: '$gray100',
 
-  variant: {
+  variants: {
     size: {
       xxs: { fontSize: '$xxs' },
       xs: { fontSize: '$xs' },

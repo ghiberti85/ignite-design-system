@@ -148,7 +148,7 @@ var Text = styled("p", {
   lineHeight: "$base",
   margin: 0,
   color: "$gray100",
-  variant: {
+  variants: {
     size: {
       xxs: { fontSize: "$xxs" },
       xs: { fontSize: "$xs" },
@@ -177,7 +177,7 @@ var Heading = styled("h2", {
   lineHeight: "$shorter",
   margin: 0,
   color: "$gray100",
-  variant: {
+  variants: {
     size: {
       sm: { fontSize: "$xl" },
       md: { fontSize: "$2xl" },

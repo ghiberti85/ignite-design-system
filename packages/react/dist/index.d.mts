@@ -214,7 +214,9 @@ interface BoxProps extends ComponentProps<typeof Box> {
     as?: ElementType;
 }
 
-declare const Text: _stitches_react_types_styled_component.StyledComponent<"p", {}, {}, _stitches_react_types_css_util.CSS<{}, {
+declare const Text: _stitches_react_types_styled_component.StyledComponent<"p", {
+    size?: "xxs" | "xs" | "sm" | "md" | "lg" | "xl" | "2xl" | "4xl" | "5xl" | "6xl" | "7xl" | "8xl" | "9xl" | undefined;
+}, {}, _stitches_react_types_css_util.CSS<{}, {
     colors: {
         white: string;
         black: string;
@@ -421,7 +423,9 @@ interface TextProps extends ComponentProps$1<typeof Text> {
     as?: ElementType;
 }
 
-declare const Heading: _stitches_react_types_styled_component.StyledComponent<"h2", {}, {}, _stitches_react_types_css_util.CSS<{}, {
+declare const Heading: _stitches_react_types_styled_component.StyledComponent<"h2", {
+    size?: "sm" | "md" | "lg" | "2xl" | "4xl" | "5xl" | "6xl" | "3xl" | undefined;
+}, {}, _stitches_react_types_css_util.CSS<{}, {
     colors: {
         white: string;
         black: string;
