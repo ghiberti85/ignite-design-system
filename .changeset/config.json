@@ -7,5 +7,5 @@
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": ["@ghiberti85-ignite-ui/docs"]
+  "ignore": []
 }
