@@ -1,4 +1,28 @@
 {
-    "extends": "@ignite-ui/ts-config/react.json",
+    "compilerOptions": {
+      "jsx": "react"
+    },
+    "compilerOptions": {
+      "jsx": "react"
+    },
+    "compilerOptions": {
+      "jsx": "react"
+    },
+    "compilerOptions": {
+      "jsx": "react"
+    },
+    "compilerOptions": {
+      "jsx": "react"
+    },
+    "compilerOptions": {
+      "jsx": "react"
+    },
+    "compilerOptions": {
+      "jsx": "react"
+    },
+    "compilerOptions": {
+      "jsx": "react"
+    },
+    "extends": "@ghiberti85-ignite-ui/ts-config/react.json",
     "include": ["src"]
 }
