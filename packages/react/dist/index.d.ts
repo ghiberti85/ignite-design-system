@@ -417,7 +417,7 @@ declare const Text: _stitches_react_types_styled_component.StyledComponent<"p", 
     transition: "transitions";
     zIndex: "zIndices";
 }, {}>>;
-interface TextProps extends ComponentProps<typeof Text> {
+interface TextProps extends ComponentProps$1<typeof Text> {
     as?: ElementType;
 }
 
@@ -624,7 +624,7 @@ declare const Heading: _stitches_react_types_styled_component.StyledComponent<"h
     transition: "transitions";
     zIndex: "zIndices";
 }, {}>>;
-interface HeadingProps extends ComponentProps<typeof Heading> {
+interface HeadingProps extends ComponentProps$1<typeof Heading> {
     as?: ElementType;
 }
 

@@ -1,6 +1,5 @@
-import { ComponentProps } from '@stitches/react'
 import { styled } from '../styles'
-import { ElementType } from 'react'
+import { ElementType, ComponentProps } from 'react'
 
 export const Heading = styled('h2', {
   fontFamily: '$default',
@@ -21,7 +20,7 @@ export const Heading = styled('h2', {
     },
   },
 
-  defaultVariant: {
+  defaultVariants: {
     size: 'md',
   },
 })
