@@ -1,5 +1,11 @@
 # @ghiberti85-ignite-ui/tokens
 
+## 4.0.0
+
+### Major Changes
+
+- Add new test
+
 ## 3.0.0
 
 ### Major Changes
