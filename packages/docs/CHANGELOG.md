@@ -1,5 +1,16 @@
 # @ghiberti85-ignite-ui/docs
 
+## 5.0.0
+
+### Major Changes
+
+- Add some fizes to future project
+
+### Patch Changes
+
+- Updated dependencies
+  - @ghiberti85-ignite-ui/react@5.0.0
+
 ## 4.0.0
 
 ### Major Changes
