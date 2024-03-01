@@ -1,5 +1,11 @@
 # @ghiberti85-ignite-ui/tokens
 
+## 4.0.1
+
+### Patch Changes
+
+- Add Toast Component
+
 ## 4.0.0
 
 ### Major Changes
