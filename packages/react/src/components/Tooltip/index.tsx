@@ -15,7 +15,7 @@ export interface TooltipProps extends ComponentProps<typeof TooltipRoot> {
 
 export function Tooltip({ contentValue, children, isOpened }: TooltipProps) {
     return(
-        <TooltipProvider delayDuration={500}>
+      <TooltipProvider delayDuration={500}>
         <TooltipRoot open={isOpened ? true : undefined}>
           <TooltipTrigger asChild>{children}</TooltipTrigger>
           <TooltipPortal>

@@ -9,7 +9,7 @@ export default {
     contentValue: '29 de fevereiro - Indisponível',
     children: (
       <Box as="button" css={{ cursor: 'pointer' }}>
-        <Text>21</Text>
+        <Text>29</Text>
       </Box>
     ),
     isOpened: undefined,
