@@ -1,5 +1,11 @@
 # @ghiberti85-ignite-ui/tokens
 
+## 5.0.0
+
+### Major Changes
+
+- Add Tooltip component
+
 ## 4.0.1
 
 ### Patch Changes

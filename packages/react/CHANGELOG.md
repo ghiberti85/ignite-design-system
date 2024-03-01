@@ -1,5 +1,11 @@
 # @ghiberti85-ignite-ui/react
 
+## 6.0.0
+
+### Major Changes
+
+- Add Tooltip component
+
 ## 5.0.1
 
 ### Patch Changes
